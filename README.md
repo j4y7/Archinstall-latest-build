@@ -1,3 +1,3 @@
 # Archinstall-latest-build
 
-# Clone from official archinstall repo
+  Clone from official archinstall repo...
